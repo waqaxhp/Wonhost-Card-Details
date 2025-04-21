@@ -5,8 +5,8 @@ import ComingSoon from "./components/ComingSoon";
 function App() {
   return (
     <>
-      {/* <PaymentCard/> */}
-      <ComingSoon />
+      <PaymentCard />
+      {/* <ComingSoon /> */}
     </>
   );
 }
